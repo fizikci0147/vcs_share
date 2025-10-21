@@ -1,0 +1,175 @@
+
+E=2.2 100-120-140-155-170 and 5 W bins
+
+FVAL  = 1.48958229764245035e-08
+Edm   = 3.34257369714899462e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0237183
+lb	  = 0.7	 +/-  0.0335599	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.48958e-08
+dla: 0.0237183 dlb: 0.0335599
+ alpha: 2.4805407160e-04 alpha low: 2.3038364653e-04 alpha high: 2.6556219761e-04
+ beta:  9.2695782816e-05 beta low: 1.1225591474e-04 beta high: 7.3388509748e-05
+#alpha 7.3 
+#beta  20.4 
+
+
+E=2.2 all -120  and 5 W bins
+
+FVAL  = 1.37382353714600397e-08
+Edm   = 1.74628923931384452e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0260576
+lb	  = 0.7	 +/-  0.0342739	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.37382e-08
+dla: 0.0260576 dlb: 0.0342739
+ alpha: 2.4805407160e-04 alpha low: 2.2863410776e-04 alpha high: 2.6727830063e-04
+ beta:  9.2695782816e-05 beta low: 1.1267395076e-04 beta high: 7.2981259798e-05
+
+#alpha 7.7 
+#beta  21.5 
+
+E=2.2 all -100  and 5 W bins
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 1.35095960474272426e-08
+Edm   = 2.05423750268826221e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0265511
+lb	  = 0.7	 +/-  0.037744	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.35096e-08
+dla: 0.0265511 dlb: 0.037744
+ alpha: 2.4805407160e-04 alpha low: 2.2826489944e-04 alpha high: 2.6764006132e-04
+ beta:  9.2695782816e-05 beta low: 1.1470617432e-04 beta high: 7.1004568284e-05
+
+#alpha 8.1 
+#beta  23.7
+
+
+E=2.2 all -100-120  and 5 W bin
+s
+FVAL  = 1.23520084424627805e-08
+Edm   = 8.24808728654734184e-09
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0316535
+lb	  = 0.7	 +/-  0.0409061	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.2352e-08
+dla: 0.0316535 dlb: 0.0409061
+ alpha: 2.4805407160e-04 alpha low: 2.2444525663e-04 alpha high: 2.7137470451e-04
+ beta:  9.2695782816e-05 beta low: 1.1655901762e-04 beta high: 6.9206794490e-05
+
+#alpha 9.3 
+#beta  25.8
+
+
+E=2.2 all -100-155  and 5 W bin
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 9.33922467435946129e-09
+Edm   = 1.94676978847122769e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0298095
+lb	  = 0.7	 +/-  0.0454977	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 9.33922e-09
+dla: 0.0298095 dlb: 0.0454977
+ alpha: 2.4805407160e-04 alpha low: 2.2582618354e-04 alpha high: 2.7002617499e-04
+ beta:  9.2695782816e-05 beta low: 1.1925096970e-04 beta high: 6.6602292924e-05
+
+#alpha 8.9 
+#beta  27.9
+
+
+
+E=2.2 all -100-120-155  and 5 W bin
+
+FVAL  = 8.18163706939500079e-09
+Edm   = 5.29795685461079242e-09
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0372404
+lb	  = 0.7	 +/-  0.0503967	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 8.18164e-09
+dla: 0.0372404 dlb: 0.0503967
+ alpha: 2.4805407160e-04 alpha low: 2.2025841835e-04 alpha high: 2.7545190417e-04
+ beta:  9.2695782816e-05 beta low: 1.2212460759e-04 beta high: 6.3831573565e-05
+
+#alpha 11.3 
+#beta  31.1
+
+
+E=2.2 all -100-170  and 5 W bin
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 1.06442451085721087e-08
+Edm   = 1.64149174332839233e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0279103
+lb	  = 0.7	 +/-  0.0420899	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.06442e-08
+dla: 0.0279103 dlb: 0.0420899
+ alpha: 2.4805407160e-04 alpha low: 2.2724784169e-04 alpha high: 2.6863589996e-04
+ beta:  9.2695782816e-05 beta low: 1.1725292439e-04 beta high: 6.8534591303e-05
+(int) 0
+
+#alpha    8.5%
+#beta    26 % 
+
+
+
+#################################################################################
+E=2.2 90-110-130-150-170
+
+FVAL  = 1.5756143534259892e-08
+Edm   = 4.67646784765648224e-08
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0201782
+lb	  = 0.7	 +/-  0.0276808	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.57561e-08
+dla: 0.0201782 dlb: 0.0276808
+ alpha: 2.4805407160e-04 alpha low: 2.3302919880e-04 alpha high: 2.6296135089e-04
+ beta:  9.2695782816e-05 beta low: 1.0881646894e-04 beta high: 7.6747554474e-05
+
+#alpha  
+#beta
+
+E=3.3 90-110-130-150-170
+
+FVAL  = 1.12300450549808766e-07
+Edm   = 4.82987242624672862e-09
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0174089
+lb	  = 0.7	 +/-  0.0241526	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.123e-07
+dla: 0.0174089 dlb: 0.0241526
+ alpha: 2.4805407160e-04 alpha low: 2.3509702709e-04 alpha high: 2.6092352281e-04
+ beta:  9.2695782816e-05 beta low: 1.0675449068e-04 beta high: 7.8768538027e-05
+
+#alpha 
+#beta
+#################################################################################

@@ -1,0 +1,115 @@
+All points included with W =1.21-1.25
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 2.67694021609330129e-08
+Edm   = 3.0360678558098571e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0215084
+lb	  = 0.7	 +/-  0.0410611	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 2.67694e-08
+dla: 0.0215084 dlb: 0.0410611
+ alpha: 4.9627571823e-04 alpha low: 4.7896859325e-04 alpha high: 5.1285833570e-04
+ beta:  1.4007596460e-04 beta low: 1.6638899123e-04 beta high: 1.1582342301e-04
+
+###3.4 %####
+b###18.6 %####
+
+All points except thgg =180  with W =1.21-1.25
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 2.41953631233040643e-08
+Edm   = 2.93422130097756748e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0219629
+lb	  = 0.7	 +/-  0.0416503	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 2.41954e-08
+dla: 0.0219629 dlb: 0.0416503
+ alpha: 4.9627571823e-04 alpha low: 4.7859494884e-04 alpha high: 5.1320105126e-04
+ beta:  1.4007596460e-04 beta low: 1.6678190432e-04 beta high: 1.1548996606e-04
+
+###3.4 %####
+b###19.3 %####
+
+All points except thgg =180,115  with W =1.21-1.25
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 2.33562083451205743e-08
+Edm   = 2.72348424539999836e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.023921
+lb	  = 0.7	 +/-  0.0431805	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 2.33562e-08
+dla: 0.023921 dlb: 0.0431805
+ alpha: 4.9627571823e-04 alpha low: 4.7698144439e-04 alpha high: 5.1467392800e-04
+ beta:  1.4007596460e-04 beta low: 1.6780438316e-04 beta high: 1.1462582990e-04
+
+###3.8 %####
+b###20 %####
+
+All points except thgg =180,115,105  with W =1.21-1.25
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 2.19473074206708795e-08
+Edm   = 2.73784082251095656e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0270215
+lb	  = 0.7	 +/-  0.0478495	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 2.19473e-08
+dla: 0.0270215 dlb: 0.0478495
+ alpha: 4.9627571823e-04 alpha low: 4.7441397615e-04 alpha high: 5.1699422589e-04
+ beta:  1.4007596460e-04 beta low: 1.7094257206e-04 beta high: 1.1200582569e-04
+
+###4.4 %####
+b###22.1 %####
+
+
+
+All points except thgg =180,115,105,145  with W =1.21-1.25
+
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 1.73483081561398265e-08
+Edm   = 2.00342628348404646e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0321993
+lb	  = 0.7	 +/-  0.0583356	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.73483e-08
+dla: 0.0321993 dlb: 0.0583356
+ alpha: 4.9627571823e-04 alpha low: 4.7009207389e-04 alpha high: 5.2083650330e-04
+ beta:  1.4007596460e-04 beta low: 1.7809100370e-04 beta high: 1.0621288738e-04
+a###5.2 %####
+b###27.1 %####
+
+
+
+All points except thgg =180,115,105  with W =1.22-1.24
+
+FVAL  = 1.46265920036771486e-08
+Edm   = 1.0201301669992767e-07
+Nfcn  = 20
+la	  = 0.7	 +/-  0.0445978
+lb	  = 0.7	 +/-  0.0769064	(limited)
+S1	  = 0.711	 (fixed)
+M1	  = 1	 (fixed)
+E1	  = 1	 (fixed)
+Minimum: f(0.7,0.7): 1.46266e-08
+dla: 0.0445978 dlb: 0.0769064
+ alpha: 4.9627571823e-04 alpha low: 4.5956770715e-04 alpha high: 5.2987331819e-04
+ beta:  1.4007596460e-04 beta low: 1.9109199502e-04 beta high: 9.6258329463e-05
+
+###7.3 %####
+b###36.4 %####
