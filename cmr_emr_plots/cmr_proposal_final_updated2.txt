@@ -1,0 +1,10 @@
+#Q2     CMR     E1      E2      Author
+0.055   -6.    0.65    0.5   proposal 
+0.05    -6.    0.65    0.5   proposal 
+0.045   -6.    0.48    0.5   proposal 
+0.04    -6.    0.48    0.5   proposal 
+0.035   -6.    0.80    0.5   proposal 
+0.03    -6.    0.80    0.5   proposal 
+0.025   -6.    0.91    0.5   proposal 
+0.02    -6.    0.91    0.5   proposal 
+0.015   -6.    0.91    0.4   proposal 
